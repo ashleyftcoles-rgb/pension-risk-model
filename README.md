@@ -52,7 +52,7 @@ Investment returns are tested between **2% and 6%**, while annual contribution i
 
 The results are displayed using a heatmap, illustrating the long-term impact of changes in investment performance and contribution strategy.
 
-![Two-way pension sensitivity analysis](outputs/deterministic_sensitivity.png)
+![Two-way pension sensitivity analysis](outputs/deterministic_sensitivty.png)
 
 ## 3. Monte Carlo Simulation
 
