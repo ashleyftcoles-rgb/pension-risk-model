@@ -52,6 +52,8 @@ Investment returns are tested between **2% and 6%**, while annual contribution i
 
 The results are displayed using a heatmap, illustrating the long-term impact of changes in investment performance and contribution strategy.
 
+![Two-way pension sensitivity analysis](outputs/deterministic_sensitivity.png)
+
 ## 3. Monte Carlo Simulation
 
 A deterministic projection assumes the same investment return each year. In reality, investment returns vary over time.
@@ -75,6 +77,8 @@ The model reports summary statistics including:
 - 95th percentile
 
 A histogram is also generated to visualise the distribution of simulated retirement outcomes.
+
+![Distribution of simulated pension outcomes](outputs/pension_distribution.png)
 
 ## 4. Retirement Target Analysis
 
@@ -115,6 +119,8 @@ The model tests combinations of:
 For each combination, 10,000 pension outcomes are simulated and the probability of reaching the £400,000 target is calculated.
 
 The resulting heatmap demonstrates how both expected investment performance and investment uncertainty affect the probability of achieving the retirement objective.
+
+![Monte Carlo sensitivity analysis](outputs/monte_carlo_sensitivity.png)
 
 ## Technologies Used
 
